@@ -19,7 +19,7 @@
   <platform name="android">
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="Exit">
-        <param name="android-package" value="im.ckk.cordova.exit" />
+        <param name="android-package" value="im.ckk.cordova.exit.Exit" />
       </feature>
     </config-file>
     <source-file src="src/android/Exit.java" target-dir="src/im/ckk/cordova/exit" />
