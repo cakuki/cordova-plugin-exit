@@ -1,0 +1,3 @@
+interface CordovaPlugins {
+  exit();
+}
